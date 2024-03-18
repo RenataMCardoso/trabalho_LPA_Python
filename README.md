@@ -10,8 +10,6 @@ Solicita ao usuário o valor unitário do produto e a quantidade desejada.
 Calcula o valor total da compra sem desconto.
 Aplica o desconto de acordo com a quantidade de produtos adquiridos.
 Retorna o valor total da compra com o desconto aplicado.
-Exemplo de Uso
-Suponha que o usuário queira calcular o valor total de 15 unidades de um produto que custa R$ 10,00 cada. O exemplo abaixo demonstra a entrada e saída do programa:
 
 ## Pré-requisitos
 Python 3.x instalado
